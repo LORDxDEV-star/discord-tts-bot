@@ -23,7 +23,7 @@ A feature-rich Discord Text-to-Speech bot that reads messages with user attribut
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/discord-tts-bot.git
+git clone https://github.com/LORDxDEV-star/discord-tts-bot.git
 cd discord-tts-bot
 ```
 

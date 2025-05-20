@@ -1,0 +1,10 @@
+{
+    "token": "UR_BOT_TOKEN",
+    "clientId": "UR_CLIENT_ID",
+    "prefix": "-",
+    "statusMessages": [
+        "Text to Speech Bot",
+        "/join to start",
+        "Made with ❤️"
+    ]
+}
